@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prJ專題個人練習Album", "prJ專題個人練習\prJ專題個人練習Album.csproj", "{6300AA9B-896F-4043-B4E8-1036A01B6CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "北風貿易系統", "北風貿易系統\北風貿易系統.csproj", "{BC2AA98D-EB37-4B80-9688-D9DD29FFC9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeView", "TreeView\TreeView.csproj", "{53628180-17AD-4D04-89A8-30064DB320D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6300AA9B-896F-4043-B4E8-1036A01B6CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6300AA9B-896F-4043-B4E8-1036A01B6CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6300AA9B-896F-4043-B4E8-1036A01B6CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6300AA9B-896F-4043-B4E8-1036A01B6CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2AA98D-EB37-4B80-9688-D9DD29FFC9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2AA98D-EB37-4B80-9688-D9DD29FFC9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2AA98D-EB37-4B80-9688-D9DD29FFC9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2AA98D-EB37-4B80-9688-D9DD29FFC9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53628180-17AD-4D04-89A8-30064DB320D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53628180-17AD-4D04-89A8-30064DB320D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53628180-17AD-4D04-89A8-30064DB320D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53628180-17AD-4D04-89A8-30064DB320D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
