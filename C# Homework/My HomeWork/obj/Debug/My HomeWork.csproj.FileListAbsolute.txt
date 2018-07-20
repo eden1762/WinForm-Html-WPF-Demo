@@ -1,0 +1,312 @@
+c:\C#\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+c:\C#\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+c:\C#\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+c:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+c:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+c:\C#\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+c:\C#\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+c:\C#\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\III\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+F:\新增資料夾\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+F:\新增資料夾\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+F:\新增資料夾\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+\\192.168.35.27\C# HomeWork\蔡易安\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+\\192.168.35.27\C# HomeWork\蔡易安\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+\\192.168.35.27\C# HomeWork\蔡易安\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\C#\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentArray.resources
+G:\新增資料夾 (2)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+G:\新增資料夾 (2)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+G:\新增資料夾 (2)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+G:\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+G:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+G:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentArray.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\III\Desktop\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentArray.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+F:\新增資料夾 (3)\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentArray.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+F:\新增資料夾 (3)\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+G:\new\My HomeWork\My HomeWork\bin\Debug\My HomeWork.exe.config
+G:\new\My HomeWork\My HomeWork\obj\Debug\My HomeWork.exe
+G:\new\My HomeWork\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.Lab_3_xxxStrip.FrmMyNotePad.resources
+C:\Users\Batmanmaster\Favorites\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\III\Desktop\My HomeWork\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+D:\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+D:\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+D:\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+D:\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+D:\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+D:\C# Homework\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+D:\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+D:\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+F:\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+F:\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+F:\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+D:\New folder (3)\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+D:\New folder (3)\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+D:\New folder (3)\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+D:\New folder (3)\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\III\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\III\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\III\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.manifest
+C:\Users\III\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.application
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe.manifest
+C:\Users\III\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.application
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.manifest
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.application
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe.manifest
+C:\Users\Batmanmaster\Dropbox\C# Homework\My HomeWork\obj\Debug\My HomeWork.application
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.manifest
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.application
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe.manifest
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.application
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\user\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.config
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe.manifest
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.application
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.exe
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\bin\Debug\My HomeWork.pdb
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Frm標準練習.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoanReport.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLoan.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentstrut.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmStudentList.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmEmployeeList.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotooShow.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmLotoo.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGame.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbumShow.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuessShow.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmGuess.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmNotePad.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmSetAlarm.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmMain.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPaint.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmScreenSaver.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmAlbum.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.Properties.Resources.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My_HomeWork.FrmPOS收銀機.resources
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.csproj.GenerateResource.Cache
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.exe.manifest
+C:\Users\Batmanmaster\Dropbox\程式作品集\C# Homework\My HomeWork\obj\Debug\My HomeWork.application
