@@ -15,6 +15,7 @@
 12)猜數字。
 13)定鬧鐘。
 2.HtmlHomework
+Html文件，有以下功能：
 1)九九乘法表
 2)登入系統
 3)評點製作
@@ -23,8 +24,9 @@
 3.WPF作業
 酷炫視窗示範。
 4.prj LinQ 作業
-使用Linq語言提取資料庫資料
+WINForm使用Linq語言提取資料庫資料
 5.prj專題個人練習
+WINForm三項專案：
 1)prj專題個人練習Album：相片檢視器
 2)TreeView：樹狀圖
 3)北風貿易系統
