@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3CEF55A-8E76-41E0-9D35-BD292C64F274}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>My_HomeWork</RootNamespace>
+    <AssemblyName>My HomeWork</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\程式作品集\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FC72F1C9C68327E3D886C27BA221C077EAEA9762</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>My HomeWork_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="04. Frm標準練習.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="04. Frm標準練習.designer.cs">
+      <DependentUpon>04. Frm標準練習.cs</DependentUpon>
+    </Compile>
+    <Compile Include="05. FrmStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="05. FrmStudentList.designer.cs">
+      <DependentUpon>05. FrmStudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="01-1.FrmLoanReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01-1.FrmLoanReport.Designer.cs">
+      <DependentUpon>01-1.FrmLoanReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="01.FrmLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="01.FrmLoan.Designer.cs">
+      <DependentUpon>01.FrmLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="03.FrmStudentstrut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="03.FrmStudentstrut.Designer.cs">
+      <DependentUpon>03.FrmStudentstrut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="06.FrmEmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="06.FrmEmployeeList.Designer.cs">
+      <DependentUpon>06.FrmEmployeeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07.FrmLotoo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07.FrmLotoo.Designer.cs">
+      <DependentUpon>07.FrmLotoo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="08.FrmGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="08.FrmGame.designer.cs">
+      <DependentUpon>08.FrmGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12-1.FrmAlbumShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12-1.FrmAlbumShow.Designer.cs">
+      <DependentUpon>12-1.FrmAlbumShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="07-1.FrmLotooShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="07-1.FrmLotooShow.Designer.cs">
+      <DependentUpon>07-1.FrmLotooShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="14.FrmSetAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="14.FrmSetAlarm.Designer.cs">
+      <DependentUpon>14.FrmSetAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="10.FrmPaint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10.FrmPaint.designer.cs">
+      <DependentUpon>10.FrmPaint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="09.FrmScreenSaver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="09.FrmScreenSaver.designer.cs">
+      <DependentUpon>09.FrmScreenSaver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="12.FrmAlbum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12.FrmAlbum.Designer.cs">
+      <DependentUpon>12.FrmAlbum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="13.FrmGuess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13.FrmGuess.Designer.cs">
+      <DependentUpon>13.FrmGuess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="13-1.FrmGuessShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13-1.FrmGuessShow.Designer.cs">
+      <DependentUpon>13-1.FrmGuessShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="13.FrmNotePad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="13.FrmNotePad.Designer.cs">
+      <DependentUpon>13.FrmNotePad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="02.FrmPOS 收銀機.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="02.FrmPOS 收銀機.designer.cs">
+      <DependentUpon>02.FrmPOS 收銀機.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility.cs" />
+    <Compile Include="形狀.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="形狀.Designer.cs">
+      <DependentUpon>形狀.cs</DependentUpon>
+    </Compile>
+    <Compile Include="時鐘.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="時鐘.Designer.cs">
+      <DependentUpon>時鐘.cs</DependentUpon>
+    </Compile>
+    <Compile Include="計算機.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="計算機.Designer.cs">
+      <DependentUpon>計算機.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="04. Frm標準練習.resx">
+      <DependentUpon>04. Frm標準練習.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="01-1.FrmLoanReport.resx">
+      <DependentUpon>01-1.FrmLoanReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="01.FrmLoan.resx">
+      <DependentUpon>01.FrmLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="03.FrmStudentstrut.resx">
+      <DependentUpon>03.FrmStudentstrut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="05. FrmStudentList.resx">
+      <DependentUpon>05. FrmStudentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="06.FrmEmployeeList.resx">
+      <DependentUpon>06.FrmEmployeeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07-1.FrmLotooShow.resx">
+      <DependentUpon>07-1.FrmLotooShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="07.FrmLotoo.resx">
+      <DependentUpon>07.FrmLotoo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="08.FrmGame.resx">
+      <DependentUpon>08.FrmGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12-1.FrmAlbumShow.resx">
+      <DependentUpon>12-1.FrmAlbumShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13-1.FrmGuessShow.resx">
+      <DependentUpon>13-1.FrmGuessShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13.FrmGuess.resx">
+      <DependentUpon>13.FrmGuess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="13.FrmNotePad.resx">
+      <DependentUpon>13.FrmNotePad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="14.FrmSetAlarm.resx">
+      <DependentUpon>14.FrmSetAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="10.FrmPaint.resx">
+      <DependentUpon>10.FrmPaint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="09.FrmScreenSaver.resx">
+      <DependentUpon>09.FrmScreenSaver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="12.FrmAlbum.resx">
+      <DependentUpon>12.FrmAlbum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="02.FrmPOS 收銀機.resx">
+      <DependentUpon>02.FrmPOS 收銀機.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="My HomeWork_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
