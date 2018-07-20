@@ -1,0 +1,10 @@
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\bin\Debug\prJ專題個人練習.exe.config
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\bin\Debug\prJ專題個人練習.exe
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\bin\Debug\prJ專題個人練習.pdb
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.csprojResolveAssemblyReference.cache
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.Properties.Resources.resources
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.csproj.GenerateResource.Cache
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.exe
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.pdb
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.FrmMyAlbum.resources
+C:\專題作業\prJ專題個人練習\prJ專題個人練習\obj\Debug\prJ專題個人練習.相片管理.resources
