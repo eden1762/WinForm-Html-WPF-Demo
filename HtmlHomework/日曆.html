@@ -1,0 +1,235 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        /*@import url('Style/main.css');*/
+        ol {
+            list-style-type: georgian;
+        }
+
+        table {
+            border: 3px double red;
+            width: 65px;
+        }
+
+        td {
+            border: 3px solid blue;
+        }
+
+        .menu {
+            overflow: auto;
+            border-bottom: 3px solid #cccccc;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            background-color: #66b3ff;
+        }
+
+            .menu li {
+                float: left;
+                list-style-type: none;
+                width: 9em;
+                text-align: center;
+                display: block;
+                border-right: 1px solid #cccccc;
+            }
+
+                .menu li a {
+                    display: block;
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: #333333;
+                    width: 100%;
+                }
+
+                    .menu li a:hover {
+                        color: #ffffff;
+                        background-color: #0080ff;
+                    }
+
+        #title1 {
+            font-size: 50px;
+            color: #000000;
+            text-align: center;
+            background-color: lightskyblue;
+        }
+        /*ha{
+        width:100%;
+        overflow:auto;
+        margin-left:300px;
+
+
+        background-color:#0066cc;
+        line-height:2.5em;
+        color:#f0f0f0;
+        padding-left:20px;
+
+            }*/
+        #title2 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-left: 20px;
+            /*width:60%;*/
+            font-size: 15px;
+        }
+
+        #title3 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-right: 20px;
+            width: 100%;
+            font-size: 15px;
+            float: right;
+        }
+
+        #art1 {
+            width: 600px;
+            float: left;
+            width: 30%;
+        }
+
+        #art2 {
+            float: right;
+            width: 65%;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+            /*padding-left:100px;*/
+            background-color: darkred;
+            width: 100%;
+            color: azure;
+        }
+    </style>
+    <script>
+        document.createElement("article")
+        document.createElement("header")
+        document.createElement("footer")
+        document.createElement("nav")
+        document.createElement("figure")
+        document.createElement("figcaption")
+    </script>
+
+</head>
+
+<body>
+    <div id="allpage">
+        <header>
+            <nav id="title1">
+                蔡阿薛的野獸作業
+            </nav>
+            <nav>
+                <ul class="menu">
+                    <li><a href="九九乘法表.html">九九乘法表</a></li>
+                    <li><a href="登入系統.html">登入系統</a></li>
+                    <li><a href="評點製作.html">評點製作</a></li>
+                    <li><a href="廣告輪播.html">廣告輪播</a></li>
+                    <li><a href="日曆.html">日曆</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <div id="content">
+            <article id="art1">
+                <h2 id="title2">日曆</h2>
+                <section>
+                    <div>
+                        <script>
+                            window.onload = function () {
+                                for (i = 2010; i <= 2020; i++) {
+                                    var yearO = window.document.createElement("option");
+                                    yearO.setAttribute("value", i)
+                                    var txtY = document.createTextNode(i)
+                                    yearO.appendChild(txtY);
+                                    document.getElementById('years').appendChild(yearO)
+                                }
+                                var yearP = document.getElementById('years')
+                                for (i = 1; i <= 12; i++) {
+                                    var monO = window.document.createElement("option");
+                                    monO.setAttribute("value", i)
+                                    var txtM = document.createTextNode(i)
+                                    monO.appendChild(txtM);
+                                    document.getElementById('months').appendChild(monO)
+                                }
+                                var monP = document.getElementById('months')
+
+                                var dateP = document.getElementById("dates")
+                                //function datemake() {
+
+
+                                function datemake() {
+                                    document.getElementById("dates").length = 0
+                                    var ndate = new Date(yearP.value, monP.value, 0).getDate();
+                                    for (i = 1; i <= ndate; i++) {
+                                        var dateO = window.document.createElement("option");
+                                        dateO.setAttribute("value", i)
+                                        var txtD = document.createTextNode(i)
+                                        dateO.appendChild(txtD);
+                                        document.getElementById('dates').appendChild(dateO)
+                                    }
+                                }
+                                function write() {
+                                    document.getElementById("result").innerText = yearP.value + "年" + monP.value + "月" + dateP.value + "日"
+                                }
+                                //}
+                                document.getElementById("years").onchange = function () {
+                                    datemake()
+                                    write()
+                                }
+                                document.getElementById("months").onchange = function () {
+                                    datemake()
+                                    write()
+                                }
+                                document.getElementById("dates").onchange = function () {
+                                    
+                                    write()
+                                }
+                                datemake()
+                                write()
+                                    
+                                }
+                            
+                           
+                        </script>
+                        <span>年:</span>
+                        <select id="years"></select>
+                        <span>月:</span>
+                        <select id="months"></select>
+                        <span>日期:</span>
+                        <select id="dates"></select>
+                        <br />
+                        <!--<input type="button" size="5" value="確認日期" onclick="bclick">-->
+                        <span id="result"></span>
+                    </div>
+
+                </section>
+            </article>
+        </div>
+
+            <aside id="art2">
+                <h2 id="title3">來首歌</h2>
+                <h4>HAPPY</h4>
+                <iframe width="640" height="360" src="https://www.youtube.com/embed/y6Sxv-sUYtM?list=PLn_Hj8l7BUZ3Fg-zOMFNQx2be3QPHFj_R" frameborder="0" allowfullscreen></iframe><br>
+            </aside><br>
+
+
+    </div>
+
+    <footer>
+        <h2>一切有為法，如夢幻泡影；如露亦如電，應作如是觀。</h2> <h3>蔡易安大獅版權沒有，拷貝請便!!</h3>
+    </footer>
+
+</body>
+
+
+
+</html>
+
+

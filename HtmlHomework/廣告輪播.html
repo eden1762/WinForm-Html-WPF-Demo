@@ -1,0 +1,260 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        /*@import url('Style/main.css');*/
+        ol {
+            list-style-type: georgian;
+        }
+
+        table {
+            border: 3px double red;
+            width: 65px;
+        }
+
+        td {
+            border: 3px solid blue;
+        }
+
+        .menu {
+            overflow: auto;
+            border-bottom: 3px solid #cccccc;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            background-color: #66b3ff;
+        }
+
+            .menu li {
+                float: left;
+                list-style-type: none;
+                width: 9em;
+                text-align: center;
+                display: block;
+                border-right: 1px solid #cccccc;
+            }
+
+                .menu li a {
+                    display: block;
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: #333333;
+                    width: 100%;
+                }
+
+                    .menu li a:hover {
+                        color: #ffffff;
+                        background-color: #0080ff;
+                    }
+
+        #title1 {
+            font-size: 50px;
+            color: #000000;
+            text-align: center;
+            background-color: lightskyblue;
+        }
+        /*ha{
+        width:100%;
+        overflow:auto;
+        margin-left:300px;
+
+
+        background-color:#0066cc;
+        line-height:2.5em;
+        color:#f0f0f0;
+        padding-left:20px;
+
+            }*/
+        #title2 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-left: 20px;
+            /*width:60%;*/
+            font-size: 15px;
+        }
+
+        #title3 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-right: 20px;
+            width: 100%;
+            font-size: 15px;
+            float: right;
+        }
+
+        #art1 {
+            width: 600px;
+            float: left;
+            width: 58%;
+        }
+
+        #art2 {
+            float: right;
+            width: 38%;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+            /*padding-left:100px;*/
+            background-color: darkred;
+            width: 100%;
+            color: azure;
+        }
+    </style>
+    <script>
+        document.createElement("article")
+        document.createElement("header")
+        document.createElement("footer")
+        document.createElement("nav")
+        document.createElement("figure")
+        document.createElement("figcaption")
+    </script>
+
+</head>
+
+<body>
+    <div id="allpage">
+        <header>
+            <nav id="title1">
+                蔡阿薛的野獸作業
+            </nav>
+            <nav>
+                <ul class="menu">
+                    <li><a href="九九乘法表.html">九九乘法表</a></li>
+                    <li><a href="登入系統.html">登入系統</a></li>
+                    <li><a href="評點製作.html">評點製作</a></li>
+                    <li><a href="廣告輪播.html">廣告輪播</a></li>
+                    <li><a href="日曆.html">日曆</a></li>                    
+                </ul>
+            </nav>
+
+        </header>
+
+        <div id="content">
+            <article id="art1">
+                <h2 id="title2">廣告輪播</h2>
+                <section>
+                    <div>
+                        <!--<!DOCTYPE html>
+                        <html>
+                        <title>W3.CSS</title>-->
+                        <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+                        <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+                        <body>
+                            
+
+                            <!--<h2 class="w3-center">Manual Slideshow</h2>-->
+
+
+                            <div class="w3-content w3-display-container">
+                                <a href="http://www.cartoonnetworkasia.com/"><img class="mySlides" src="image/德克斯特的實驗室.jpg" style="width:100%"></a>
+                                <a href="http://dora-world.com/index.html"><img class="mySlides" src="image/多拉3.gif" style="width:100%"></a>
+                                    <a href="http://www.nin-nin.com/"><img class="mySlides" src="image/哈特利.jpg" style="width:100%"></a>
+                                        <a href="http://www.keraeiko.com/"><img class="mySlides" src="image/我們這一家.jpg" style="width:100%"></a>
+
+                                            <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+                                            <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+</div>
+
+
+
+                            <script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+                            </script>
+
+                        </body>
+                    </html>
+                    </div>
+                </section>
+            </article>
+        </div>
+        <aside id="art2">
+            <h2 id="title3">笑話一則</h2>
+            <h4>電腦不能開機</h4>
+            <h5 style="font-size:8px;height:300px;width:300px;overflow:auto">
+                ｘｘ個人電腦維修工作室
+
+                這天半夜有個客人打電話來問說<br>
+
+                客人：「ｘｘ電腦維修公司嗎？」<br>
+
+                工程師：「是的！請問客人有什麼問題？」<br>
+
+                客人：「我的電腦不能開機。」<br>
+
+                工程師：「您電源插頭有插嗎？」<br>
+
+                客人：「有的。」<br>
+
+                工程師：「請檢查一下ｐｏｗｅｒ電源插頭是否有鬆落，接觸不良。」<br>
+
+                客人：「沒！」<br>
+
+                工程師：「那請您拿出紙、筆來。」<br>
+
+                客人：「喔好。稍等一下，我先找一下拿手電筒。」<br>
+
+                工程師：「為什麼要拿手電筒？」<br>
+
+
+
+
+                客人：「我家停電啊！」<br>
+
+                工程師：「…………」
+            </h5><br>
+        </aside>
+
+    </div>
+
+    <footer>
+        <script>
+        window.onload = function () {
+            if (!localStorage.pageLoadCountLocal) {
+                localStorage.pageLoadCountLocal = 0;
+            }
+            localStorage.pageLoadCountLocal = parseInt(localStorage.pageLoadCountLocal) + 1;
+            document.getElementById('count').textContent = localStorage.pageLoadCountLocal;
+
+            /*
+            var value=localStorage.getItem("pageLoadCountLocal")
+            if (!localStorage.value) {
+            localStorage.setItem("pageLoadCountLocal",0);
+            }
+            value=parseInt(value)+1;
+            localStorage.setItem("pageLoadCountLocal",value)
+            document.getElementById('count').textContent = value;
+            */
+
+        }
+        </script>
+        <p> You have viewed this page localStorage <span id="count">an untold number of</span> time(s). </p> <h3>蔡易安大獅版權沒有，拷貝請便!!</h3>
+    </footer>
+
+</body>
+
+
+
+</html>

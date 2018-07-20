@@ -1,0 +1,472 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        /** {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 20px;
+            transition: background 800ms;
+        }
+
+        html {
+            height: 100%;
+            background: hsl(193, 66%, 55%);
+            font: bold 40px helvetica, sans-serif;
+            color: red;
+        }
+
+        body {
+            height: 100%;
+            background: hsl(193, 66%, 65%);
+        }
+
+        div {
+            height: 100%;
+            background: hsl(193, 66%, 75%);
+        }
+
+        ul {
+            height: 100%;
+            list-style: none;
+            background: hsl(193, 66%, 85%);
+        }
+
+        li {
+            height: 100%;
+            background: hsl(193, 66%, 95%);
+        }
+
+        .highlight {
+            background: red;
+        }*/
+        /*@import url('Style/main.css');*/
+        ol {
+            list-style-type: georgian;
+        }
+
+        table {
+            border: 3px double red;
+            width: 65px;
+        }
+
+        td {
+            border: 3px solid blue;
+        }
+
+        .menu {
+            overflow: auto;
+            border-bottom: 3px solid #cccccc;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            background-color: #66b3ff;
+        }
+
+            .menu li {
+                float: left;
+                list-style-type: none;
+                width: 9em;
+                text-align: center;
+                display: block;
+                border-right: 1px solid #cccccc;
+            }
+
+                .menu li a {
+                    display: block;
+                    list-style-type: none;
+                    text-decoration: none;
+                    color: #333333;
+                    width: 100%;
+                }
+
+                    .menu li a:hover {
+                        color: #ffffff;
+                        background-color: #0080ff;
+                    }
+
+        #title1 {
+            font-size: 50px;
+            color: #000000;
+            text-align: center;
+            background-color: lightskyblue;
+        }
+        /*ha{
+        width:100%;
+        overflow:auto;
+        margin-left:300px;
+
+
+        background-color:#0066cc;
+        line-height:2.5em;
+        color:#f0f0f0;
+        padding-left:20px;
+
+            }*/
+        #title2 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-left: 20px;
+            /*width:60%;*/
+            font-size: 15px;
+        }
+
+        #title3 {
+            background-color: #0066cc;
+            line-height: 2.5em;
+            color: #f0f0f0;
+            padding-right: 20px;
+            width: 100%;
+            font-size: 15px;
+            float: right;
+        }
+
+        #art1 {
+            width: 600px;
+            float: left;
+            width: 58%;
+        }
+
+        #art2 {
+            float: right;
+            width: 38%;
+        }
+
+        footer {
+            position: absolute;
+            bottom: 0;
+            text-align: center;
+            /*padding-left:100px;*/
+            background-color: darkred;
+            width: 100%;
+            color: azure;
+        }
+         .n{
+			color:blue;
+			font-family:Arial;
+			font-size:24px;
+		}
+		.s{
+			color:red;
+			font-family:"Script MT Bold";
+			font-size:36px;
+		}
+                .q {
+            -webkit-filter: grayscale(1);  /*沒有任何色彩的黑白影像*/
+            
+        }
+        .w {
+            -webkit-filter: grayscale(0);  /*顏色不變*/
+        }
+    </style>
+    <script>
+        document.createElement("article")
+        document.createElement("header")
+        document.createElement("footer")
+        document.createElement("nav")
+        document.createElement("figure")
+        document.createElement("figcaption")
+        //document.addEventListener("DOMContentLoaded", function () {
+        //    var html = document.documentElement;
+        //    var body = document.body;
+        //    var div = document.querySelector('div');
+        //    var ul = document.querySelector('ul');
+        //    var li = document.querySelector('li');
+        //    var pause = 200;
+
+        //    // Capture
+        //    html.addEventListener('click', callback, true);
+        //    body.addEventListener('click', callback, true);
+        //    div.addEventListener('click', callback, true);
+        //    ul.addEventListener('click', callback, true);
+        //    li.addEventListener('click', callback, true);
+
+        //    // Bubble
+        //    html.addEventListener('click', callback, false);
+        //    body.addEventListener('click', callback, false);
+        //    div.addEventListener('click', callback, false);
+        //    ul.addEventListener('click', callback, false);
+        //    li.addEventListener('click', callback, false);
+
+        //    function callback(event) {
+        //        //alert(event.timeout);
+        //        //var a = (event.timeout + pause) || 0;
+        //        var ms = event.timeout = (event.timeout + pause) || 0;
+        //        var target = event.currentTarget;
+
+        //        setTimeout(function () {
+        //            target.classList.add('highlight');
+        //            setTimeout(function () {
+        //                target.classList.remove('highlight');
+        //            }, pause);
+        //        }, ms);
+        //    }  //function
+        //});
+    </script>
+    <!--<style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 20px;
+            transition: background 800ms;
+        }
+
+        html {
+            height: 100%;
+            background: hsl(193, 66%, 55%);
+            font: bold 40px helvetica, sans-serif;
+            color: red;
+        }
+
+        body {
+            height: 100%;
+            background: hsl(193, 66%, 65%);
+        }
+
+        div {
+            height: 100%;
+            background: hsl(193, 66%, 75%);
+        }
+
+        ul {
+            height: 100%;
+            list-style: none;
+            background: hsl(193, 66%, 85%);
+        }
+
+        li {
+            height: 100%;
+            background: hsl(193, 66%, 95%);
+        }
+
+        .highlight {
+            background: red;
+        }
+    </style>-->
+    <!--<script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var html = document.documentElement;
+            var body = document.body;
+            var div = document.querySelector('div');
+            var ul = document.querySelector('ul');
+            var li = document.querySelector('li');
+            var pause = 200;
+
+            // Capture
+            html.addEventListener('click', callback, true);
+            body.addEventListener('click', callback, true);
+            div.addEventListener('click', callback, true);
+            ul.addEventListener('click', callback, true);
+            li.addEventListener('click', callback, true);
+
+            // Bubble
+            html.addEventListener('click', callback, false);
+            body.addEventListener('click', callback, false);
+            div.addEventListener('click', callback, false);
+            ul.addEventListener('click', callback, false);
+            li.addEventListener('click', callback, false);
+
+            function callback(event) {
+                //alert(event.timeout);
+                //var a = (event.timeout + pause) || 0;
+                var ms = event.timeout = (event.timeout + pause) || 0;
+                var target = event.currentTarget;
+
+                setTimeout(function () {
+                    target.classList.add('highlight');
+                    setTimeout(function () {
+                        target.classList.remove('highlight');
+                    }, pause);
+                }, ms);
+            }  //function
+        });
+    </script>-->
+
+</head>
+
+<body>
+    <div id="allpage">
+        <header>
+            <nav id="title1">
+                蔡阿薛的野獸作業
+            </nav>
+            <nav>
+                <ul class="menu">
+                    <li><a href="九九乘法表.html">九九乘法表</a></li>
+                    <li><a href="登入系統.html">登入系統</a></li>
+                    <li><a href="評點製作.html">評點製作</a></li>
+                    <li><a href="廣告輪播.html">廣告輪播</a></li>
+                    <li><a href="日曆.html">日曆</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <div id="content">
+            <article id="art1">
+                <h2 id="title2">登入系統</h2>
+                <section>
+                    <div>
+                        <script>
+                            function chkPwd() {
+
+                                var pwd = document.getElementById("idPwd").value;
+                                var pwdLen = pwd.length;
+                                var flag1 = false;
+                                var flag2 = false;
+                                if (pwd == "")
+                                    document.getElementById("idspb").innerHTML="<img src='image/error.png' />請輸入";
+                                else if (pwdLen >= 6) {
+                                    for (var i = 0; i < pwd.length; i++) {
+                                        var pwdchk = pwd.substr(i, 1).toUpperCase()
+                                        if (pwdchk >= "A" && pwdchk <= "Z")
+                                        { flag1 = true; }
+                                        else if (pwdchk >= "0" && pwdchk <= "9")
+                                        { flag2 = true; }
+
+                                    }
+                                    if (flag1 && flag2)
+                                    {   
+                                        document.getElementById("idspb").innerHTML = "做得好，大哥是對的"
+                                    }
+                                    else
+                                    { document.getElementById("idspb").innerHTML="<img src='image/error.png' />美女，請重打" }
+                                }
+                                else { document.getElementById("idspb").innerHTML="<img src='image/error.png' />請輸入超過六個密碼包含英文數字" }
+                            }
+                            function chkDat() {
+                                var pdt = document.getElementById("idDate").value;
+                                if (pdt == "")
+                                    document.getElementById("idspc").innerHTML="<img src='image/error.png' />請輸入";
+                                else {
+
+                                    var year = pdt.split("/")[0];
+                                    var month = pdt.split("/")[1];
+                                    var date = pdt.split("/")[2];
+                                    if (month < "1" || month > "12")
+                                        document.getElementById("idspc").innerHTML="<img src='image/error.png' />抱歉喔!月份錯誤";
+                                    else if (date < "1" || date > "31")
+                                    document.getElementById("idspc").innerHTML="<img src='image/error.png' />ㄎㄎ...日期錯誤"
+                                   else {
+                                        var result = new Date(year + "/" + month + "/" + date);
+                                   
+                                        if (date == result.getDate())
+                                            document.getElementById("idspc").innerHTML="恭喜你!!你是愛因斯坦!!"
+                                        else
+                                            document.getElementById("idspc").innerHTML="<img src='image/error.png' />請輸入正確日期，重考!!"
+                                    }
+
+
+                                }
+
+                            }
+                            function chkPwdC() {
+                                idPwd.type = "password";
+                            }
+                            function chkNme() {
+                                var Nme = document.getElementById("idName").value;
+                                var NmeLen = Nme.length;
+                                var NmeChk = /^.[\u4E00-\u9FA5]{2,10}$/
+                                if (NmeChk.test(Nme))
+                                    document.getElementById("idspa").innerHTML="你好棒，送你一顆星星!!" + Nme;
+                                else
+                                    document.getElementById("idspa").innerHTML="<img src='image/error.png' />你錯惹!你真的錯惹!請輸入中文至少兩個字";
+                            }
+
+                        </script>
+                            姓名:<input type="text" id="idName" size="16" value="三重劉德華" />
+                            <input type="button" value="checkName" onclick="chkNme();" />
+                        <span id="idspa" style="color:red"></span>
+<hr />
+                            密碼:<input type="text" id="idPwd" size="16" value="請輸入密碼，歐巴馬" onclick="chkPwdC();" />
+                            <input type="button" value="checkPassword" onclick="chkPwd();" />
+                        <span id="idspb" style="color:red"></span>
+<hr />
+                            日期:<input type="text" id="idDate" size="16" value="輸入格式:2016/1/1" />
+                            <input type="button" value="checkDate" onclick="chkDat();" />
+                        <span id="idspc" style="color:red"></span>
+</span>
+                            <hr />
+
+                    </div>
+                </section>
+            </article>
+        </div>
+        <aside id="art2">
+            <h2 id="title3">這是吸菸之前跟之後的肺!</h2>
+            <h4>來這邊，不誇張，真的超扯!</h4>
+            <h5 style="font-size:8px;height:300px;width:300px;overflow:auto">
+            
+                <script>
+                window.onload = function () {
+                document.getElementById("idstar").onmouseover = mouseOver;
+                document.getElementById("idstar").onmouseout = mouseOut;
+                };
+
+                function mouseOver() {
+
+                document.getElementById("idstar").className = "q";
+                }
+                function mouseOut() {
+                document.getElementById("idstar").className = "w";
+                }
+                </script>
+                
+                <img id="idstar" class="w" src="image/肺.jpg" />
+            </h5><br>
+        </aside>
+        <!--<script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var html = document.documentElement;
+            var body = document.body;
+            var div = document.querySelector('div');
+            var ul = document.querySelector('ul');
+            var li = document.querySelector('li');
+            var pause = 200;
+
+            // Capture
+            html.addEventListener('click', callback, true);
+            body.addEventListener('click', callback, true);
+            div.addEventListener('click', callback, true);
+            ul.addEventListener('click', callback, true);
+            li.addEventListener('click', callback, true);
+
+            // Bubble
+            html.addEventListener('click', callback, false);
+            body.addEventListener('click', callback, false);
+            div.addEventListener('click', callback, false);
+            ul.addEventListener('click', callback, false);
+            li.addEventListener('click', callback, false);
+
+            function callback(event) {
+                //alert(event.timeout);
+                //var a = (event.timeout + pause) || 0;
+                var ms = event.timeout = (event.timeout + pause) || 0;
+                var target = event.currentTarget;
+
+                setTimeout(function () {
+                    target.classList.add('highlight');
+                    setTimeout(function () {
+                        target.classList.remove('highlight');
+                    }, pause);
+                }, ms);
+            }  //function
+        });
+        </script>-->
+
+    </div>
+
+    <footer>
+        <h2>Why so serious!?</h2> <h3>蔡易安大獅版權沒有，拷貝請便!!</h3>
+    </footer>
+
+</body>
+
+
+
+</html>
+
+</html>

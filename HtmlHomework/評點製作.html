@@ -1,0 +1,334 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+            /*@import url('Style/main.css');*/
+            ol {
+                list-style-type: georgian;
+            }
+
+            table {
+                border: 3px double red;
+                width: 65px;
+            }
+
+            td {
+                border: 3px solid blue;
+            }
+
+            .menu {
+                overflow: auto;
+                border-bottom: 3px solid #cccccc;
+                border-top-right-radius: 10px;
+                border-top-left-radius: 10px;
+                background-color: #66b3ff;
+            }
+
+                .menu li {
+                    float: left;
+                    list-style-type: none;
+                    width: 9em;
+                    text-align: center;
+                    display: block;
+                    border-right: 1px solid #cccccc;
+                }
+
+                    .menu li a {
+                        display: block;
+                        list-style-type: none;
+                        text-decoration: none;
+                        color: #333333;
+                        width: 100%;
+                    }
+
+                        .menu li a:hover {
+                            color: #ffffff;
+                            background-color: #0080ff;
+                        }
+
+            #title1 {
+                font-size: 50px;
+                color: #000000;
+                text-align: center;
+                background-color: lightskyblue;
+            }
+            /*ha{
+        width:100%;
+        overflow:auto;
+        margin-left:300px;
+
+
+        background-color:#0066cc;
+        line-height:2.5em;
+        color:#f0f0f0;
+        padding-left:20px;
+
+            }*/
+            #title2 {
+                background-color: #0066cc;
+                line-height: 2.5em;
+                color: #f0f0f0;
+                padding-left: 20px;
+                /*width:60%;*/
+                font-size: 15px;
+            }
+
+            #title3 {
+                background-color: #0066cc;
+                line-height: 2.5em;
+                color: #f0f0f0;
+                padding-right: 20px;
+                width: 100%;
+                font-size: 15px;
+                float: right;
+            }
+
+            #art1 {
+                width: 600px;
+                float: left;
+                width: 85%;
+            }
+
+            #art2 {
+                float: right;
+                width: 10%;
+            }
+
+            footer {
+                position: absolute;
+                bottom: 0;
+                text-align: center;
+                /*padding-left:100px;*/
+                background-color: darkred;
+                width: 100%;
+                color: azure;
+            }
+
+            
+    </style>
+    <script>
+        document.createElement("article")
+        document.createElement("header")
+        document.createElement("footer")
+        document.createElement("nav")
+        document.createElement("figure")
+        document.createElement("figcaption")
+        window.onload = function () {
+            for (var i = 0; i < imgs.length; i++) {
+                imgs[i].onmouseover = function () { mouseOver(this.id); }
+                imgs[i].onclick = function () { mouseClick(this.id); }
+
+                //imgs[i].onmouseout = function () { Click(this.id); }
+            };
+        }
+        var imgs = document.getElementsByTagName("img");
+        var imglen =imgs.length;
+        function mouseOver(imgid) {
+            var num = parseInt(imgid);
+            for ( i = 1; i <= num; i++)
+
+            { document.getElementById(i + "idimg").src = "image/chngstar.gif"; }
+            for ( i = 6; i > num; i--)
+            { document.getElementById(i + "idimg").src = "image/star.gif"; }
+        }
+        function mouseClick(imgid2) {
+            var num2 = parseInt(imgid2);
+            for (i = 0; i <= num2; i++)
+
+            {
+
+                if (i == 1)
+                    document.getElementById("text7").innerHTML = "一顆星!";
+
+                if (i == 2)
+                    document.getElementById("text7").innerHTML = "兩顆星!";
+          
+                if (i == 3)
+                    document.getElementById("text7").innerHTML = "三顆星!";
+                if (i == 4)
+                    document.getElementById("text7").innerHTML = "四顆星!";
+                if (i == 5)
+                    document.getElementById("text7").innerHTML = "五顆星!很棒!";
+                if (i == 6)
+                    document.getElementById("text7").innerHTML = "六顆星!太偉大惹!你是星星太陽跟月亮!";
+                   
+            }
+        }
+
+        
+
+
+        //function Click() {
+        //    document.images[0].src = "image/star.gif";
+        //}
+        //window.onload = function () {
+            
+        //    document.getElementById("idimg1").onmouseover = mouseover1;
+        //    document.getElementById("idimg1").onmouseout = mouseout1;
+        //    document.getElementById("idimg2").onmouseover = mouseover2;
+        //    document.getElementById("idimg2").onmouseout = mouseout2;
+        //    document.getElementById("idimg3").onmouseover = mouseover3;
+        //    document.getElementById("idimg3").onmouseout = mouseout3;
+        //    document.getElementById("idimg4").onmouseover = mouseover4;
+        //    document.getElementById("idimg4").onmouseout = mouseout4;
+        //    document.getElementById("idimg5").onmouseover = mouseover5;
+        //    document.getElementById("idimg5").onmouseout = mouseout5;
+        //    document.getElementById("idimg6").onmouseover = mouseover6;
+        //    document.getElementById("idimg6").onmouseout = mouseout6;
+
+        //};
+
+        //function mouseover1() {
+        //    document.getElementById("idimg1").src = "image/chngstar.gif"
+ 
+        //}
+        //function mouseover2() {
+
+        //    document.getElementById("idimg2").src = "image/chngstar.gif"
+
+        //}
+        //function mouseover3() {
+
+        //    document.getElementById("idimg3").src = "image/chngstar.gif"
+
+        //}
+        //function mouseover4() {
+
+        //    document.getElementById("idimg4").src = "image/chngstar.gif"
+
+        //}
+        //function mouseover5() {
+
+        //    document.getElementById("idimg5").src = "image/chngstar.gif"
+
+        //}
+        //function mouseover6() {
+
+        //    document.getElementById("idimg6").src = "image/chngstar.gif"
+        //}
+
+        //function mouseout1() {
+        //    document.getElementById("idimg1").src = "image/star.gif"
+
+        //}
+        //function mouseout2() {
+
+        //    document.getElementById("idimg2").src = "image/star.gif"
+  
+        //}
+        //function mouseout3() {
+
+        //    document.getElementById("idimg3").src = "image/star.gif"
+
+        //}
+        //function mouseout4() {
+
+        //    document.getElementById("idimg4").src = "image/star.gif"
+
+        //}
+        //function mouseout5() {
+
+        //    document.getElementById("idimg5").src = "image/star.gif"
+
+        //}
+        //function mouseout6() {
+
+        //    document.getElementById("idimg6").src = "image/star.gif"
+        //}
+
+        
+    </script>
+
+</head>
+
+<body>
+    <div id="allpage">
+        <header>
+            <nav id="title1">
+                蔡阿薛的野獸作業
+            </nav>
+            <nav>
+                <ul class="menu">
+                    <li><a href="九九乘法表.html">九九乘法表</a></li>
+                    <li><a href="登入系統.html">登入系統</a></li>
+                    <li><a href="評點製作.html">評點製作</a></li>
+                    <li><a href="廣告輪播.html">廣告輪播</a></li>
+                    <li><a href="日曆.html">日曆</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <div id="content">
+            <article id="art1">
+                <h2 id="title2">評點製作</h2>
+                <section>
+                    <div>
+                        
+                        <img id="1idimg" src="image/star.gif" />
+                        <img id="2idimg" src="image/star.gif"  />
+                        <img id="3idimg" src="image/star.gif" />
+                        <img id="4idimg" src="image/star.gif" />
+                        <img id="5idimg" src="image/star.gif" />
+                        <img id="6idimg" src="image/star.gif" />
+                        <br>
+                        <span id="text7" style="color:dodgerblue"  >各位大葛格大姊節，等待評分中......</span>
+
+                    </div>
+                </section>
+            </article>
+        </div>
+        <aside id="art2">
+            <h2 id="title3">聖誕快樂</h2>
+            <h4 id="h" class="n">請把禮物拖到禮物箱喔</h4> 
+            <style type="text/css">
+        #dropZone  {
+                     width:80px;height:150px;border:1px solid blue;float:left
+	                }
+            </style>
+            
+            <script>
+        function dragStartHandler(e) {
+            e.dataTransfer.setData("text/plain", e.target.id);
+        }
+        function dragoverHandler(e) {
+            e.preventDefault();
+        }
+        function dropHandler(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var elementID = e.dataTransfer.getData("text/plain");
+            var element = document.getElementById(elementID);
+            var div1 = document.createElement("div");
+            div1.innerHTML = element.innerHTML;;
+            div1.setAttribute("class", "dragItemStyle");
+            e.currentTarget.appendChild(div1);
+        }
+
+            </script>
+            <div id="dragItem" draggable="true" ondragstart="dragStartHandler(event)">禮物</div>
+            <div id="dropZone" ondragover="dragoverHandler(event)" ondrop="dropHandler(event)"></div>
+            <div id="dropZone1" ondragover="dragoverHandler(event)" ondrop="dropHandler(event)"></div>
+        </aside>
+
+    </div>
+
+    <footer>
+        <h3>《如夢令．昨夜雨疏風驟》
+
+
+昨夜雨疏風驟，濃睡不消殘酒。
+
+試問捲簾人，卻道海棠依舊。
+
+知否?知否？ 應是綠肥紅瘦。</h3> <h3>易安居士版權沒有，拷貝請便!!</h3>
+    </footer>
+
+</body>
+
+
+
+</html>

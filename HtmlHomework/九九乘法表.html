@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <style>
+        /*@import url('Style/main.css');*/
+        ol{
+            list-style-type:georgian;
+        }
+        table {
+            border: 3px double red;
+            width: 65px;
+        }
+
+        td {
+            border: 3px solid blue;
+        }
+        .menu  {
+            overflow:auto;
+            border-bottom:3px solid #cccccc;
+            border-top-right-radius:10px;
+            border-top-left-radius:10px;
+            background-color:#66b3ff;
+            
+
+        }
+        .menu li {
+            float: left;
+            list-style-type:none;
+            width:9em;
+            text-align:center;
+            display:block;
+                    border-right: 1px solid #cccccc;
+
+        }
+        .menu li a{
+            display:block;
+            list-style-type: none;
+            text-decoration:none;
+            color:#333333;
+                        width:100%;
+
+        }
+        .menu li a:hover{
+            color:#ffffff;
+            background-color:#0080ff;
+
+        }
+        #title1{                        font-size:50px;
+            color:#000000;
+            text-align:center;
+            background-color:lightskyblue;
+
+        }
+        /*ha{
+    width:100%;
+    overflow:auto;
+    margin-left:300px;
+
+
+    background-color:#0066cc;
+    line-height:2.5em;
+    color:#f0f0f0;
+    padding-left:20px;
+
+        }*/
+        #title2{    background-color:#0066cc;
+    line-height:2.5em;
+    color:#f0f0f0;
+    padding-left:20px;
+    /*width:60%;*/
+    font-size:15px;
+            
+        }
+                #title3{    background-color:#0066cc;
+    line-height:2.5em;
+    color:#f0f0f0;
+    padding-right:20px;
+    width:100%;
+    font-size:15px;
+    float:right;
+
+            
+        }
+        #art1{
+            width:600px;
+            float:left;
+            width:58%;
+        }
+        #art2{
+            float:right;
+            width:38%;
+        }
+        footer{
+            position:absolute;
+            bottom:0;
+            text-align:center;
+            /*padding-left:100px;*/
+            background-color:darkred;
+            width:100%;
+            color:azure;
+
+        }
+        
+
+
+        
+
+    </style>
+    <script>
+        document.createElement("article")
+        document.createElement("header")
+        document.createElement("footer")
+        document.createElement("nav")
+        document.createElement("figure")
+        document.createElement("figcaption")
+    </script>
+
+    </head>
+
+<body>
+    <div id="allpage">
+        <header>
+            <nav id="title1">
+                蔡阿薛的野獸作業
+            </nav>
+            <nav>
+                <ul class="menu">
+                    <li><a href="九九乘法表.html">九九乘法表</a></li>
+                    <li><a href="登入系統.html">登入系統</a></li>
+                    <li><a href="評點製作.html">評點製作</a></li>
+                    <li><a href="廣告輪播.html">廣告輪播</a></li>
+                    <li><a href="日曆.html">日曆</a></li>
+                </ul>
+            </nav>
+
+        </header>
+
+        <div id="content">
+            <article id="art1">
+                <h2 id="title2">九九乘法表</h2>
+                <section>
+                    <div>
+                        <script>
+                            var i;
+                            var j;
+                            document.write('<table><tr>')
+                            for (i = 1; i <= 9; i++) {
+                                document.write("<td>");
+                                //label1.Text += string.Format("\n{0}*{1}={2}", i, 2, i * 2);
+                                for (j = 1; j <= 9; j++) {
+                                    document.write(i + "*" + j + "=" + i * j + "<br>");
+                                }
+
+                                document.write("</td>");
+
+
+                            }
+                            document.write('</table></tr>')
+                        </script>
+                    </div>
+                </section>
+            </article>
+        </div>
+        <aside id="art2">
+            <h2 id="title3">笑話一則</h2>
+            <h4>電腦不能開機</h4>
+            <h5 style="font-size:8px;height:300px;width:300px;overflow:auto"> ｘｘ個人電腦維修工作室
+
+這天半夜有個客人打電話來問說<br>
+
+客人：「ｘｘ電腦維修公司嗎？」<br>
+
+工程師：「是的！請問客人有什麼問題？」<br>
+
+客人：「我的電腦不能開機。」<br>
+
+工程師：「您電源插頭有插嗎？」<br>
+
+客人：「有的。」<br>
+
+工程師：「請檢查一下ｐｏｗｅｒ電源插頭是否有鬆落，接觸不良。」<br>
+
+客人：「沒！」<br>
+
+工程師：「那請您拿出紙、筆來。」<br>
+
+客人：「喔好。稍等一下，我先找一下拿手電筒。」<br>
+
+工程師：「為什麼要拿手電筒？」<br>
+
+
+
+
+客人：「我家停電啊！」<br>
+
+工程師：「…………」</h5><br>
+        </aside>
+        
+        </div>
+    
+    <footer>
+        <h2>一切有為法，如夢幻泡影；如露亦如電，應作如是觀。</h2> <h3>蔡易安大獅版權沒有，拷貝請便!!</h3> 
+    </footer>
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
