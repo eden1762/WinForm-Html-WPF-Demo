@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="prj LinQ 作業.exe" version="1.0.0.0" publicKeyToken="b141c04e0859e37f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="prj LinQ 作業" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="prj LinQ 作業.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC 資訊清單選項
+          如果您要變更 Windows 使用者帳戶控制層級，請將 
+          requestedExecutionLevel 節點取代為下列其中一項。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         如果您要利用檔案及登錄模擬，
+         以便提供回溯相容性，則請刪除 requestedExecutionLevel 節點。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prj LinQ 作業.exe" size="11224">
+      <assemblyIdentity name="prj LinQ 作業" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yjn1FlTocxS8SzWrc/MwIvzNb+GZFfqvIfYX+P+95F0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="prj LinQ 作業.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-616E58R\III" issuerKeyHash="d544c908a5ffcb899567edf413851b0751ecf51e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>sAuEuBMl4/Yx7oMkTr70mWwLKNp7sEDJRPzUXhb0rQ8=</DigestValue></Reference></SignedInfo><SignatureValue>iwVZqchc0NytT+y5TUPc7GVqPVxZMBG5JJYsOeryDh19UvR66QUemwUSegakIlWvYiFilq1f56FooO1x3bofB38M2cwQPFUdo5qa9L4wGOY1qjT1sWKemaJNQHzAXOwz9GBYMR6w88nWpMSpjf+IjmFMbG6nMNHPOoL982hfoYw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vOD+CGmt8NdBDh/TT5tYZuzytk170ozUUWCEsGsBVzyYNgRak7LxhtJ6tNqcWsQK0Gc9vvgpMSOlbyiCBBhA0TrmzuIG0AbxVA3+5knVp3FEM4LG005ibmQEqV+H4+hW8EKUC/DRed46jlK/GygLRQj4PYCxfWeQ+jPUopxp7ac=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0fadf4165ed4fc44c940b07bda280b6c99f4be4e2483ee31f6e32513b8840bb0" Description="" Url=""><as:assemblyIdentity name="prj LinQ 作業.exe" version="1.0.0.0" publicKeyToken="b141c04e0859e37f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-616E58R\III</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>uQqY+z8BUetEHhDu8Esc3eM1DOUJjnCCgKO0QCaNLO0=</DigestValue></Reference></SignedInfo><SignatureValue>BDJpOSYbcaWGhh8m0iinxDqMFK5sjp3oySmGgfXM+DE01cJrT/ZsK5WYldjq8XxZfeJcgLmVsodw1tiArS2C66SGVROHsat0YvuOzjemE9cGNt9LVtCwCJw6su7JdTnmOKLIvYFcDEpSoK6eb4znL8x7q6zSolhRuMJjMTUp5+0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vOD+CGmt8NdBDh/TT5tYZuzytk170ozUUWCEsGsBVzyYNgRak7LxhtJ6tNqcWsQK0Gc9vvgpMSOlbyiCBBhA0TrmzuIG0AbxVA3+5knVp3FEM4LG005ibmQEqV+H4+hW8EKUC/DRed46jlK/GygLRQj4PYCxfWeQ+jPUopxp7ac=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQO3/utQLed5pLZAu+LtmgJzANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYARABFAFMASwBUAE8AUAAtADYAMQA2AEUANQA4AFIAXABJAEkASTAeFw0xNzA0MDYwNTA4MjhaFw0xODA0MDYxMTA4MjhaMDExLzAtBgNVBAMeJgBEAEUAUwBLAFQATwBQAC0ANgAxADYARQA1ADgAUgBcAEkASQBJMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC84P4Iaa3w10EOH9NPm1hm7PK2TXvSjNRRYISwawFXPJg2BFqTsvGG0nq02pxaxArQZz2++CkxI6VvKIIEGEDROubO4gbQBvFUDf7mSdWncUQzgsbTTmJuZASpX4fj6FbwQpQL8NF53jqOUr8bKAtFCPg9gLF9Z5D6M9SinGntpwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAGDQ43JSNxxsoiLrdY8+rjV+KwbMoypJN3qDltnZGVH6Pz2uCmLtRxL/yxHAUMxsD3xyv+apFXL62f3qSynB/SgyWuOwgiYwTG4yZdaLITs6o8sB+6LbuYL1TrlynKEju7CWH11bZFBcpMcLsP6WaiXywIQD/cV8hR8eeGkTz3cn</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

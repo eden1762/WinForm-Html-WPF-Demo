@@ -1,0 +1,13 @@
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\bin\Debug\prj LinQ 作業.exe.config
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\bin\Debug\prj LinQ 作業.exe
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\bin\Debug\prj LinQ 作業.pdb
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj_LinQ_作業.Form1.resources
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj_LinQ_作業.Properties.Resources.resources
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.csproj.GenerateResource.Cache
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.exe
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.pdb
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.csprojResolveAssemblyReference.cache
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\bin\Debug\prj LinQ 作業.exe.manifest
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\bin\Debug\prj LinQ 作業.application
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.exe.manifest
+D:\Linq 作業\prj LinQ 作業\prj LinQ 作業\obj\Debug\prj LinQ 作業.application
