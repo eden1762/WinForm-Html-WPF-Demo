@@ -30,4 +30,6 @@ WINForm三項專案：
 1)prj專題個人練習Album：相片檢視器
 2)TreeView：樹狀圖
 3)北風貿易系統
+6.ChangeNameWPF
+酷炫視窗，可以批次修改檔案的檔名。
 
